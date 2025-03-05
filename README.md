@@ -31,6 +31,7 @@ A real-time multiplayer Tic-Tac-Toe game built with **React.js** and **Socket.IO
 
 2. **Install dependencies:**
    ```sh
+   cd client
    npm install
    ```
 
