@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Multiplayer
 
-![Cover Image](IMG_20250130_014412(1).jpg)
+![Cover Image](https://raw.githubusercontent.com/1-abesh-1/tic-tac-toe-multiplayer/refs/heads/main/IMG_20250130_014412%20(1).jpg)
 
 A real-time multiplayer Tic-Tac-Toe game built with **React.js** and **Socket.IO**.
 
