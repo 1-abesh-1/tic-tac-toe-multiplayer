@@ -17,9 +17,9 @@ A real-time multiplayer Tic-Tac-Toe game built with **React.js** and **Socket.IO
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Vite
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js, Socket.IO
-- **Deployment:** Netlify (Frontend), Render/Heroku (Backend)
+- **Deployment:** Netlify (Frontend), Glitch(Backend)
 
 ## 📦 Installation
 
@@ -36,7 +36,7 @@ A real-time multiplayer Tic-Tac-Toe game built with **React.js** and **Socket.IO
 
 3. **Run the frontend:**
    ```sh
-   npm run dev
+   npm start
    ```
 
 4. **Run the backend:** (if applicable)
