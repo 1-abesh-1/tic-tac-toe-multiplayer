@@ -52,9 +52,6 @@ A real-time multiplayer Tic-Tac-Toe game built with **React.js** and **Socket.IO
 2. Share the game link with a friend.
 3. Start playing in real-time!
 
-## 📷 Screenshots
-
-(You can add screenshots here if needed)
 
 ## 🤝 Contributing
 
